@@ -55,6 +55,14 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="Content\css\pinch.css" />
+    <Content Include="Content\css\toaster.css" />
+    <Content Include="Content\img\toaster\Slide1.gif" />
+    <Content Include="Content\img\toaster\Slide2.gif" />
+    <Content Include="Content\img\toaster\Slide3.gif" />
+    <Content Include="Content\img\toaster\Slide4.gif" />
+    <Content Include="Content\img\toaster\toaster-sprite.png" />
+    <Content Include="Content\js\jquery.cb.toaster.js" />
+    <Content Include="Content\js\transition-helper.js" />
     <Content Include="Content\nancy-logo.png" />
     <Content Include="favicon.ico" />
     <Content Include="Web.config" />
@@ -70,6 +78,7 @@
     </Content>
     <Content Include="packages.config" />
     <Content Include="Views\pinch.sshtml" />
+    <Content Include="Views\toaster.sshtml" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
