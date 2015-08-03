@@ -10,6 +10,8 @@ namespace IAmBacon.Demos.Nancy
             {
                 return View["index"];
             };
+
+            Get["/pinch"] = parameters => View["pinch"];
         }
     }
 }
