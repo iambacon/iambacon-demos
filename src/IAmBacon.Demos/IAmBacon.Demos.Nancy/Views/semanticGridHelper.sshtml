@@ -1,0 +1,25 @@
+﻿<!DOCTYPE HTML>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <title>Demo: Semantic grid mixin helpers - I am Bacon</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" type="text/css" href="~/Content/css/semanticGridHelper.css">
+</head>
+<body>
+    <h1>Mixin helpers for Semantic Grid</h1>
+	<p>
+		The demo page for
+		<a href="http://iambacon.co.uk/blog/abstracting-grid-implementation-with-mixins-using-semantic-grid-less-css">
+			Abstracting grid implementation with mixins using Semantic grid - LESS CSS
+		</a>
+	</p>
+    <p><strong>Author: </strong><a href="http://www.iambacon.co.uk" rel="author">Colin Bacon</a></p>
+    </p>
+    <div class="col1"></div>
+    <div class="col2"></div>
+    <div class="col3"></div>
+</body>
+
+</html>

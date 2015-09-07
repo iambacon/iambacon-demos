@@ -14,6 +14,8 @@ namespace IAmBacon.Demos.Nancy
             Get["/pinch"] = parameters => View["pinch"];
 
             Get["/toaster"] = parameters => View["toaster"];
+
+            Get["/semantic-grid-helper"] = parameters => View["semanticGridHelper"];
         }
     }
 }

@@ -55,6 +55,7 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="Content\css\pinch.css" />
+    <Content Include="Content\css\semanticGridHelper.css" />
     <Content Include="Content\css\toaster.css" />
     <Content Include="Content\img\toaster\Slide1.gif" />
     <Content Include="Content\img\toaster\Slide2.gif" />
@@ -79,6 +80,7 @@
     <Content Include="packages.config" />
     <Content Include="Views\pinch.sshtml" />
     <Content Include="Views\toaster.sshtml" />
+    <Content Include="Views\semanticGridHelper.sshtml" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
