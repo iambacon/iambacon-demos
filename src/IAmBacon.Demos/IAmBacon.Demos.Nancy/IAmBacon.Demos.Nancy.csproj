@@ -68,7 +68,7 @@
     <Content Include="Content\js\transition-helper.js" />
     <Content Include="Content\nancy-logo.png" />
     <Content Include="favicon.ico" />
-    <None Include="Views\cssFlag.sshtml" />
+    <Content Include="Views\cssFlag.sshtml" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
