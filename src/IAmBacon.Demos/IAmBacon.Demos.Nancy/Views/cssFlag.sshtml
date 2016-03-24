@@ -1,0 +1,38 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Demo: CSS corner flag - I am Bacon</title>
+    <link rel="stylesheet" href="~/Content/css/flag.css">
+</head>
+<body>
+    <h1>CSS corner flag</h1>
+    <p>
+        The demo page for
+        <a href="http://iambacon.co.uk/blog/creating-a-flag-with-css">Creating a flag with CSS</a>
+    </p>
+    <p><strong>Author: </strong><a href="http://www.iambacon.co.uk" rel="author">Colin Bacon</a></p>
+    <div class="g-article article">
+        <a href="http://iambacon.co.uk/blog/request-task-cancellation-extension-method">
+            <img class="article-image" src="http://images.iambacon.co.uk/blog/c-sharp.png" alt="Request task cancellation extension method" />
+        </a>
+        <h3 class="article-title">
+            <a href="http://iambacon.co.uk/blog/request-task-cancellation-extension-method">Request task cancellation extension method</a>
+        </h3>
+        <p class="flag is-offer">
+            <span class="flag-text">Popular</span>
+        </p>
+    </div>
+    <div class="g-article article">
+        <a href="http://iambacon.co.uk/blog/extending-the-animation-fading-out-with-storyboards-and-behaviours-winrt-windows-8-1-store-apps">
+            <img class="article-image" src="http://images.iambacon.co.uk/blog/winrt.png" alt="Extending the animation - fading out with storyboards and behaviours - WinRT | Windows 8.1 store apps" />
+        </a>
+        <h3 class="article-title">
+            <a href="http://iambacon.co.uk/blog/extending-the-animation-fading-out-with-storyboards-and-behaviours-winrt-windows-8-1-store-apps">Fading out with storyboards and behaviours</a>
+        </h3>
+        <p class="flag is-new">
+            <span class="flag-text flag-text--large">New</span>
+        </p>
+    </div>
+</body>
+</html>
