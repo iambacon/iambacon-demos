@@ -1,6 +1,6 @@
 ## iambacon demos
 
-Project containing demos and examples supplementary to posts on [iambacon.co.uk](http://www.iambacon.co.uk) or github projects.
+Project containing demos and examples supplementary to posts on [iambacon.co.uk](https://www.iambacon.co.uk) or github projects.
 
 ## Tech
 
