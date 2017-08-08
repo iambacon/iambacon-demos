@@ -34,13 +34,13 @@
 			color: rgb(0, 128, 128);
 		}
 	</style>
-	<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
-	<script src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.10.3/jquery-ui.min.js"></script>
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+	<script src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.10.3/jquery-ui.min.js"></script>
 	<script type="text/javascript" src="~/Content/js/transition-helper.js"></script>
 	<script type="text/javascript" src="~/Content/js/jquery.cb.toaster.js"></script>
 	<main>
 		<h1>Toaster Carousel</h1>
-		<p>Created by <a class="author" href="http://www.iambacon.co.uk">Colin Bacon</a></p>
+		<p>Created by <a class="author" href="https://www.iambacon.co.uk">Colin Bacon</a></p>
 		<p>A jQuery UI widget using CSS transitions with a jQuery animate fallback.</p>
 		<ol class="toaster">
 			<li class="cb-toaster-item" data-cb-toaster-title="Slide 1">

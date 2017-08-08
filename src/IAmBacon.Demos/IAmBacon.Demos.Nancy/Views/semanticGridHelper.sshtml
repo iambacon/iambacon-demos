@@ -11,11 +11,11 @@
     <h1>Mixin helpers for Semantic Grid</h1>
 	<p>
 		The demo page for
-		<a href="http://iambacon.co.uk/blog/abstracting-grid-implementation-with-mixins-using-semantic-grid-less-css">
+		<a href="https://iambacon.co.uk/blog/abstracting-grid-implementation-with-mixins-using-semantic-grid-less-css">
 			Abstracting grid implementation with mixins using Semantic grid - LESS CSS
 		</a>
 	</p>
-    <p><strong>Author: </strong><a href="http://www.iambacon.co.uk" rel="author">Colin Bacon</a></p>
+    <p><strong>Author: </strong><a href="https://www.iambacon.co.uk" rel="author">Colin Bacon</a></p>
     </p>
     <div class="col1"></div>
     <div class="col2"></div>

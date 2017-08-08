@@ -2,7 +2,7 @@
  * jquery.cb.toaster.js
  *
  * Copyright (c) 2013 Colin Bacon
- * http://www.iambacon.co.uk
+ * https://www.iambacon.co.uk
  *
  * Depends:
  * jquery.js v1.8+
