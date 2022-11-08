@@ -1,0 +1,23 @@
+{
+  "name": "iambacon-demos",
+  "version": "2.0.0",
+  "description": "Project containing demos and examples supplementary to posts on [iambacon.co.uk](https://www.iambacon.co.uk) or github projects.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iambacon/iambacon-demos.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iambacon/iambacon-demos/issues"
+  },
+  "homepage": "https://github.com/iambacon/iambacon-demos#readme",
+  "devDependencies": {
+    "@11ty/eleventy": "^1.0.2"
+  }
+}
