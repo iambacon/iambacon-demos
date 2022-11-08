@@ -1,7 +1,7 @@
-## iambacon demos
+# iambacon demos
 
 Project containing demos and examples supplementary to posts on [iambacon.co.uk](https://www.iambacon.co.uk) or github projects.
 
-## Tech
+## Built with
 
-iambacon demos is created using [Nancy](http://nancyfx.org/), a lightweight framework for .NET.
+iambacon demos is built using [Eleventy](https://www.11ty.dev) (11ty), a static site generator.
